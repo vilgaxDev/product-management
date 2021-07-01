@@ -35,21 +35,8 @@ The front end is implemented with Springboot, JPA, Hibernate, Spring Security, L
 
 # Database Part(Completed)
 
-### DBMS MySQL
-[Sql file to build the database and insert testing data](Store_data.sql)
 
 
-
-
-
-
-#### View
-
-1. For each product ID, list how many product are in the store inventory and warehouse inventory
-
-User(s): Store Manager, warehouse employee, salespeople
-
-Purpose: Provides the  inventory information of all the product
 
 
 # Testing

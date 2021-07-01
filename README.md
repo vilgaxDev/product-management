@@ -61,3 +61,17 @@ Selenium WebDriver
 #### back-end
 
 Junit
+
+
+# How to run
+Load the project backend in intelij and run
+or 
+Use command line:  mvn spring-boot:run
+
+# Front end
+go to : product management\product Management\src\main\webApp\reactjs
+
+# Run yarn install
+Yarn start
+
+Login details are user name  admin pass admin
